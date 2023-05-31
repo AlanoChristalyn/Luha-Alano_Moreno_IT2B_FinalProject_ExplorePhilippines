@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ExplorePhilippines>
+
+    <!-- Index -->
+    <index> 
+        <image>beach.jpg</image> 
+        <title>BEACHES</title>
+        <description>The Philippines is a 7000-island archipelago with the world’s fifth-biggest coastline. This means that there are literally hundreds of tropical beaches to choose from when visiting this idyllic holiday destination in Southeast Asia.</description>   
+    </index>
+    <index>
+        <image>outdoor.jpg</image> 
+        <title>OUTDOOR ATTRACTION</title>
+        <description>The Philippines is a great destination for travelers looking for exhilarating adventure tours. From caving adventures, hiking and trekking, to extreme water activities, the Philippines has it all. </description>  
+    </index>
+    <index> 
+        <image>museum1.jpg</image> 
+        <title>MUSEUM</title>
+        <description>During your museum visit, you’ll get introduced to the country’s colorful culture that is evident in Philippine festivals, arts, and food with Pampanga as the top culinary tourism destination in the Philippines.</description>    
+    </index>
+    <index> 
+        <image>historical.jpg</image> 
+        <title>HISTORICAL PLACES</title>
+        <description>Several landmarks across the country remain standing with their walls, pillars, and grounds echoing stories of the Philippines’ tragic and triumphant past.Most of them are only fragments of what they were used to be, but they are undoubtedly windows to the Philippines’ soul, pre-, during, and post-colonization.</description>   
+    </index>
+    <index> 
+        <image>island.jpg</image> 
+        <title>ISLANDS</title>
+        <description>As an archipelago, the Philippines is rich in natural wonders for its tourist spots.Many popular island destinations can be found in the Visayas, like Cebu, Bohol, and Boracay, but there are also some in Luzon, including Palawan. Meanwhile, Mindanao's emerging top island destination is Siargao.</description>    
+    </index>
+    <index> 
+        <image>park.jpg</image> 
+        <title>PARKS</title>
+        <description>While that already makes it a paradise for nature admirers, what makes it a haven for wildlife enthusiasts are the national parks in the Philippines. Brimming with natural beauty and thrilling experiences, these parks are the ultimate spots to visit if you’re an explorer at heart. </description> 
+    </index>
+    <index> 
+        <image>church.jpg</image> 
+        <title>CHURCHES</title>
+        <description>Catholicism has been the foundation of Filipino identity for most Filipinos in the Philippines.Currently, the Philippines is one of the biggest Catholic populations in Asia, and its century-old churches have been a witness to wars and have survived natural calamities.</description>   
+    </index>
+    <index> 
+        <image>falls.jpg</image> 
+        <title>FALLS</title>
+        <description>Waterfalls in the Philippines are incredible natural creations. They are both strikingly beautiful and powerful. Getting to them is an adventure in itself as they are tucked in jungles and mountains. </description>
+    </index>
+    <index> 
+        <image>hotspring.jpg</image> 
+        <title>NATURAL HOTSPRING</title>
+        <description>The Philippines is part of the Pacific Ring of Fire and has a lot of active volcanoes, this means that there are also many natural hot spring resorts across the country from popular to underrated destinations in Luzon, Visayas, and Mindanao.</description>  
+    </index>
+    <index> 
+        <image>mountain.jpg</image> 
+        <title>MOUNTAINS</title>
+        <description>If you want to test your strength by climbing to the clouds on steep trails, taking incredible pictures, or just having a good rest for the weekend — go to the mountains. We've described for you the highest and most beautiful peaks in the Philippines worth seeing. </description>  
+    </index>
+    <index> 
+        <image>reef.jpg</image> 
+        <title>REEF</title>
+        <description>A reef is a ridge of material at or near the surface of the ocean. Reefs can occur naturally. Natural reefs are made of rocks or the skeletons of small animals called corals. Reefs can also be artificial—created by human beings.</description>   
+    </index>
+    <index> 
+        <image>market.jpg</image> 
+        <title>MARKETS</title>
+        <description>Traditional markets showcase an unique aspect of a country's life. The markets comprised in this walk offer a glance into the true life and habits of Manila’s people. </description>    
+    </index>
+
+    <!-- Profile -->
+    <profile>
+        <name>Jessa May Luha</name>
+        <image>profile (1).jpg</image>
+        <address>Duyay, Boac Marinduque</address>
+        <facebook>https://web.facebook.com/Essah.19</facebook>
+        <instagram>https://www.instagram.com/essah.19/</instagram>
+        <github>https://github.com/Jessamay19</github>
+    </profile>
+    <profile>
+        <name> Christalyn Alano </name>
+        <image>profile (2).jpg</image>
+        <address>Sihi, Buenavista Marinduque</address>
+        <facebook> https://web.facebook.com/alanochristalyn </facebook>
+        <instagram>https://www.instagram.com/christa_lyn_ll/</instagram>
+        <github>https://github.com/AlanoChristalyn</github>
+    </profile>
+    <profile>
+        <name> Kaila Moreno </name>
+        <image>profile (3).jpg</image>
+        <address>Sayao, Mogpog Marinduque</address>
+        <facebook> https://web.facebook.com/kaila.moreno.79 </facebook>
+        <instagram>https://www.instagram.com/kilaa_moreno/ </instagram>
+        <github>https://github.com/KailaMoreno</github>
+    </profile>
+
+<!-- Categories -->
+
+    <!-- Beaches -->
+    <beaches>
+        <name>Anguib Beach </name>
+        <location>Sta. Ana, Cagayan</location>
+        <description>The province of Cagayan in the northern Philippines is usually known for its spectacular mountains an valleys, but few do know that it holds many spectacular beaches that can compare to those of the rest of the world.  Anquib Beach in the barangay of San Vicente, town of Santa Ana in Cagayan definitely fits this description as a place worth visiting.</description>
+    </beaches>
+    <beaches> 
+        <name>Alona Beach</name>
+        <location>Bohol</location>
+        <description>The Alona beach is a popular public beach located at the south-west tip of Panglao Island, Bohol in the Philippines. It is known for its white sand, rocky cliffs, and commercial facilities that line the 1 kilometre (0.62 mi) stretch of the beach.[1][2] It is located near a coral reef and is a popular scuba-diving and snorkeling spot. It is situated less than two miles from the Bohol-Panglao International Airport.The beach is named after Filipino actress Alona Alegre who ran naked along the beach in 1973 for the movie “Esteban” which she co-starred along with Fernando Poe Jr.[</description>
+    </beaches>
+    <beaches> 
+        <name>Buena Suerte Beach</name>
+        <location>Palawan</location>
+        <description>Buena Suerte, one of the four Población barangays, sits on the western section of the town proper, occupying the areas from the famous limestone and marble cliffs called taraw that act as a backdrop and run from the southern to its westernmost sections, the Lapus-Lapus Trail that leads to the beaches of Ipil Point and Siete Commando opposite the surrounding mountain walls, and to the St. Francis of Assissi Parish Church that serves as the main office of the Parish of El Nido.</description>
+    </beaches>
+    <beaches> 
+        <name>Puerto Galera Bay</name>
+        <location>Oriental Mindoro</location>
+        <description>Puerto Galera is included in the list of the "Club of the Most Beautiful Bays of the World", and is the only bay in the Philippines to be found on this list. Among the beaches in Puerto Galera are Sabang Beach and White Beach, which have an active nightlife with numerous bars and restaurants.</description>
+    </beaches>
+    <beaches> 
+        <name>Saud Beach</name>
+        <location>Pagudpud, Ilocos Norte</location>
+        <description>The jewel in the crown of Pagudpud is Saud Beach, with its renowned wonderful fine white sand. The waters of the South China Sea are a magnificent blue and crystal clear all the time. This is bordered by spectacular multi-coloured corals and iridescent fish.</description>
+    </beaches>
+
+    <!-- Outdoor -->
+    <outdoor>
+        <name>Hiking in Mt. Pulag </name>
+        <location>Benguet</location>
+        <description>Get to know this 10.8-mile out-and-back trail near Kabayan, Benguet. Generally considered a challenging route, it takes an average of 6 h 20 min to complete. This is a popular trail for hiking, but you can still enjoy some solitude during quieter times of day.</description>
+    </outdoor>
+    <outdoor> 
+        <name>Surfing</name>
+        <location>Siargao</location>
+        <description>Siargao is home to the best surfing in the Philippines. Surfers have been making the pilgrimage to Siargao for decades to test their skill at Cloud 9, which is ranked as one of the top 10 waves in the world. What lots of travelers don’t know is that there are many high quality Siargao surf breaks — you just have to know here to find them. Siargao has 27 km of coastline that’s exposed to swell.</description>
+    </outdoor>
+    <outdoor> 
+        <name>Ultralight Flying</name>
+        <location>Pampanga</location>
+        <description>Like the people who make them, each bucket list is unique. While some like to have easily achievable things such as exploring certain hobbies, others’ may contain ambitious things such as “Go to space”, “Climb Mount Everest”, or “Fly a plane.”If flying a plane is on your bucket list, Ultralight Drifter in Magalang, Pampanga makes achieving this dream easier. It lets you control an aircraft and fly it with a Mount Arayat view without having to attend an expensive flying school.</description>
+    </outdoor>
+    <outdoor> 
+        <name>Wakeboarding</name>
+        <location>Camarines Sur​</location>
+        <description>Wakeboarding is becoming a popular summer sports in the Philippines. Camarines Sur has been elevated to one of the most renowned travel destinations in the country because of this new water sports craze. The province is located in Region 5 at the island of Luzon. Camarines Sur has been elevated to one of the most renowned travel destinations in the country because of this new water sports craze.</description>
+    </outdoor>
+    <outdoor> 
+        <name>Whitewater Rafting</name>
+        <location>Cagayan de Oro and Kalinga</location>
+        <description>Travel to Mindanao’s adventure paradise, Cagayan de Oro, the whitewater rafting capital of the Philippines. Find out the best time to go, how to get there, where to stay, top things to do, and places to visit, and learn how to plan your itinerary with this travel guide. Cagayan de Oro or CDO is a highly urbanized city located in the Misamis Oriental region of Northern Mindanao, Philippines. Cagayan de Oro tours are mainly extreme activities like whitewater rafting, ziplining, and kayaking that's why it's a top destination for adventurous travelers.</description>
+    </outdoor>
+
+<!-- Museums -->
+    <museum>
+        <name>Ayala Museum</name>
+        <location>Makati, Metro Manila</location>
+        <description>Ayala Museum is one of the leading private museums in the Philippines. This six-storey edifice houses permanent exhibits on Filipino culture, art, and history. It also features changing exhibits that situate Philippine art in the global arena, and hosts overseas collections.</description>
+    </museum>
+    <museum> 
+        <name>The Casa Manila</name>
+        <location>Intramuros,Metro Manila</location>
+        <description>The Casa Manila or “Manila House” is a living museum that features the lifestyle of an affluent Filipino family during the late Spanish colonial period. The façade of Casa Manila was patterned after a house that once stood at Jaboneros Street in the Chinese district of Binondo in the 1850's.</description>
+    </museum>
+    <museum> 
+        <name>The Mind Museum</name>
+        <location>Bonifacio Global City,Manila</location>
+        <description>The Mind Museum is a science museum in Manila, Philippines that opened in 2012. It is located in Bonifacio Global City, a business district of the city. It has five main galleries occupying a 4,900 square metres exhibit area spanning two floors. Each has its own theme including atom, life, earth, universe and technology.They are linked by "Nature’s Webways". The museum was well received when it opened and won the THEA Award for Outstanding Achievement for the Science Museum category. </description>
+    </museum>
+    <museum> 
+        <name>Museo Filipino</name>
+        <location>Manila</location>
+        <description>It's a great museum to know about Philippine history and the Spanish occupation in the country. It's nicely located near Intramuros and other historical sites in Manila. After a long day and visit to this museum, there's a hidden gem restaurant cafe located at the rooftop of this century old building!</description>
+    </museum>
+    <museum> 
+        <name>National Museum of Natural History </name>
+        <location>Metro Manila</location>
+        <description>The National Museum of Natural History houses 12 permanent galleries that exhibit the rich biological and geological diversity of the Philippines. It includes creatively curated displays of botanical, zoological, and geological specimens that represent our unique natural history.</description>
+    </museum>
+
+    <!-- Historical -->
+    <historical>
+        <name>EDSA Shrine</name>
+        <location>Quezon City</location>
+        <description>The Shrine of Mary, Queen of Peace, Our Lady of EDSA, or more popularly, the EDSA Shrine is a small church of the Roman Catholic Archdiocese of Manila located at the intersection of Ortigas Avenue and Epifanio de los Santos Avenue (EDSA) in Barangay Ugong Norte, Quezon City. The church is also called the Archdiocesan Shrine of Mary, Queen of Peace or Mary, Queen of Peace Quasi-Parish, although these names are seldom used. It is also a declared Important Cultural Property by the National Commission for Culture and the Arts.</description>
+    </historical>
+    <historical> 
+        <name>Intramuros Manila</name>
+        <location>Metro Manila</location>
+        <description>Intramuros (Spanish: Barrio de Intramuros), is the 0.67-square-kilometer (0.26 sq mi) historic walled area within the city of Manila, the capital of the Philippines. It is administered by the Intramuros Administration with the help of the city government of Manila.Present-day Intramuros comprises a centuries-old historic district, entirely surrounded by fortifications, that was considered at the time of the Spanish Empire to be the entire City of Manila. Other towns and arrabales (suburbs) located beyond the walls that are now districts of Manila were referred to as extramuros, Latin for "outside the walls",[3][4] and were independent towns that were only incorporated into the city of Manila during the early 20th century. </description>
+    </historical>
+    <historical> 
+        <name>Mactan Shrine</name>
+        <location>Lapu-Lapu City, Cebu</location>
+        <description>Mactan Shrine, also known as Liberty Shrine, is a memorial park on the island of Mactan in Lapu-Lapu City, Cebu, Philippines. It hosts two monuments, namely the Magellan Monument, which is dedicated to Portuguese explorer Ferdinand Magellan and the Lapu Lapu Monument, a bronze statue which commemorates Lapu Lapu, a native leader who defeated Spanish soldiers led by Magellan in the 1521 Battle of Mactan.</description>
+    </historical>
+    <historical> 
+        <name>Rizal-Shrine</name>
+        <location>Calamba Laguna </location>
+        <description>The Rizal Shrine in Calamba (Filipino: Museo ni José Rizal Calamba) is a reproduction of the original two-story, Spanish-colonial style house in Calamba, Laguna where José Rizal was born on June 19, 1861.Rizal is regarded as one of the greatest national heroes of the Philippines.The house is designated as a National Shrine (Level 1) by the National Historical Commission of the Philippines. It is located along Mercado Street and Rizal Street in Calamba's Poblacion 5 and is in close proximity to St. John the Baptist Parish Church and the City College of Calamba.</description>
+    </historical>
+    <historical> 
+        <name>Sandugo Shrine</name>
+        <location>Bohol</location>
+        <description>Sandugo literally means “one blood.” Said to be a tradition in the island, the sandugo is solemn pledge that marks the bond of friendship between two tribes. It is binding and must be honored by both parties. In history, the most famous Sandugo was performed by the chieftain of Bohol Datu Sikatuna and Spanish explorer Miguel López de Legazpi on March 16, 1565. This was considered the first friendship treaty between the Filipinos and Spaniards.</description>
+    </historical>
+
+    <!-- Island -->
+     <island>
+        <name>Coron Island </name>
+        <location>Palawan</location>
+        <description>Coron Palawan is one of the most amazing islands in the Philippines, with huge limestone peaks, multicolored lagoons, and great snorkeling or scuba diving.Like other islands in the Philippines, Coron Island is a very budget friendly destination where you can see beautiful white sand beaches and some of the best coral reefs in Southeast Asia.Even though Coron isn’t quite as famous as its nearby cousin El Nido, it’s more affordable and less crowded, and you could argue that the island hopping scenery is just as good.This Coron travel guide will give you some details on getting there, things to do, where to stay, and how you can experience this gem of the Philippines yourself!</description>
+    </island>
+    <island> 
+        <name>El Nido Island</name>
+        <location>Palawan</location>
+        <description>El Nido is a Philippine municipality on Palawan island. It’s known for white-sand beaches, coral reefs and as the gateway to the Bacuit archipelago, a group of islands with steep karst cliffs. Miniloc Island is famed for the clear waters of its Small and Big lagoons. Nearby Shimizu Island has fish-filled waters. The area has many dive sites, including Dilumacad Island’s long tunnel leading to an underwater cavern.</description>
+    </island>
+    <island> 
+        <name>Virgin Island</name>
+        <location>Bohol</location>
+        <description>The warm water had completely swallowed the entire sandbar of Pungtud Island when our boat docked. My niece and nephew could not believe their eyes. For the first time ever, they saw a sandbar, a lengthy, white sandbar that extended to the shallow sea from a small island. Immediately, the kids hopped out of the boat, ran to along the sandy runway, and made little splashes along the way.</description>
+    </island>
+    <island> 
+        <name>Calaguas Island</name>
+        <location>Camarines Norte</location>
+        <description>With its long stretch of fine white sand beach and perfectly turquoise water, Calaguas Island will definitely make you fall in love with the place. This Calaguas travel guide will come handy for everyone planning to visit or revisit Calaguas Islands. Provided in this guide are relevant islandrmation that will make it easier for your to plan your trip. Know the updated travel requirements, islandrmation on getting there, accommodation, activities, sample itinerary, budget and more. Enjoy Calaguas!</description>
+    </island>
+    <island> 
+        <name>Siquijor  Island</name>
+        <location>Central Visayas</location>
+        <description>Siquijor is one of the best islands to visit in the Philippines if your objective is getting off-the-beaten-track. Shrouded in secrets, the island is home to mystical ‘healers’ and tales of witchcraft.This intriguing history dates back to a time when there were no hospitals on the island, meaning locals had to rely on their own forms of treatment. An off-beat attraction for those with an open mind is to visit a local witch doctor and receive an aura-cleansing ‘bulo bulo’ treatment.</description>
+    </island>
+
+    <!-- Parks -->
+    <parks>
+        <name>Hundred Islands National Park </name>
+        <location>Pangasinan</location>
+        <description>The Hundred Islands National Park of Alaminos City is a protected area in Pangasinan that comprises 124 islands spread out along the Lingayen Gulf. It is also known as “Kapulo-puloan” or “Taytay-Bakes." Four of these islands have already been developed to attract more tourists: Governors Island, Quezon Island, Marcos Island, and Children’s Island. </description>
+    </parks>
+    <parks> 
+        <name>Legazpi Active Park</name>
+        <location>Makati, Metro Manila</location>
+        <description>The Legazpi Active Park (sometimes spelled Legaspi) is a privately owned public space and pocket park in the Makati Central Business District in Makati, Metro Manila, the Philippines. It is located in Legazpi Village in the western side of the CBD, adjacent to Washington SyCip Park and near Greenbelt. The park, best known as the location of a weekend market known as the Legazpi Sunday Market, is maintained by the Makati Commercial Estate Association which is headquartered in a two-storey building at the adjoining parking lot since 2017. Its name is in reference to its location along Legazpi Street within the formerly gated Legazpi Village that was merged with the neighboring gated San Lorenzo Village to form Barangay San Lorenzo.</description>
+    </parks>
+    <parks> 
+        <name>Minalungao National Park</name>
+        <location>Nueva Ecija</location>
+        <description>Minalungao National Park is situated at General Tinio, Nueva Ecija and it’s a popular tourist spot in the Central Luzon region. It is approximately 116 kilometers northeast of Metro Manila and because of its proximity to the National Capital Region and unique landscape it became a haven for travelers who want to enjoy the stunning beauty of nature. Minalungao National Park is a three to four hours drive from Manila and it’s a cheap destination for a summer getaway.</description>
+    </parks>
+    <parks> 
+        <name>Quezon National Park</name>
+        <location>Atimonan Quezon</location>
+        <description>The Quezon National Forest Park is situated within the three towns of Quezon namely Atimonan, Padre Burgos and Pagbilao with 983 ha and 366 m above sea level. It is just 180 km southeast of Manila and covers the western end of the isthmus of Luzon. The “Old Zigzag Road” or “Tourism Highway” passes through the middle of the forest park. Big vehicles are not allowed to use this way because of its steep grades.</description>
+    </parks>
+    <parks> 
+        <name>Washington Sycip Park</name>
+        <location>Makati, Metro Manila</location>
+        <description>Washington SyCip Park is a privately owned public park near Greenbelt mall in Legaspi Village, Makati, Metro Manila, Philippines. The park opened in 2006, and was named after Filipino accountant and banker Washington SyCip.[1] In addition to many indigenous tropical trees and plants, the park contains gazebos and recreational spaces.</description>
+    </parks>
+    <churches>
+        <name>Baclaran-Church</name>
+        <location>Pasay</location>
+        <description>The National Shrine of Our Mother of Perpetual Help (Filipino: Pambansáng Dambana ng Iná ng Laging Saklolo; Spanish: Santuario Nacional de Nuestra Señora del Perpetuo Socorro), also known as the Redemptorist Church (Spanish: Iglesia Redentorista) and colloquially as Baclaran Church (Filipino: Simbahan ng Baclaran), is a national shrine dedicated to Our Lady of Perpetual Help along Roxas Boulevard in Baclaran, Parañaque city of Metro Manila, Philippines.The church enshrines the icon of Our Mother of Perpetual Help, and is one of the largest Marian churches in the Philippines.</description>
+    </churches>
+    <churches> 
+        <name>Boac Cathedral</name>
+        <location>Boac, Marinduque</location>
+        <description>The Immaculate Conception Cathedral Parish (Filipino: Parokyang Katedral ng Kalinis-linisang Paglilihi), commonly referred to as Boac Cathedral, is a Roman Catholic church and cathedral in the town center of Boac, Marinduque, in the Mimaropa region of the Philippines.The seat of the Diocese of Boac,[1] the cathedral today is surrounded by its likewise centuries-old defensive walls, and was declared a Philippine Important Cultural Property (ICP) in 2018 by the national museum of the country.</description>
+    </churches>
+    <churches> 
+        <name>Christ the King Cathedral</name>
+        <location>Davao, Mindanao</location>
+        <description>This is the Christ the King Cathedral in Tagum, Davao del Norte which is the biggest cathedral in the Philippines and where the world's largest and longest Rosary can be found. The cathedral sits on a 2 hectare donated land at the corners of Gonzales Avenue and Sobrecary Street in Magugpo, South of Tagum City, about 53 kilometers north of Davao City. It was in built in 1993 solely from donations and took 12 years to finish, in time for the celebration of the silver anniversary of the Diocese of Tagum City in 2005.</description>
+    </churches>
+    <churches> 
+        <name>Quiapo Church</name>
+        <location>Manila </location>
+        <description>The Minor Basilica of the Black Nazarene,[a] known canonically as the Saint John the Baptist Parish,[b] and colloquially as Quiapo Church,[c] is a prominent basilica in the district of Quiapo in the city of Manila, Philippines. The basilica is famous since it is the home of the Black Nazarene, a dark statue of Jesus Christ said to be miraculous. The basilica is under the jurisdiction of the Archdiocese of Manila and its current rector is Rev. Fr. Rufino C. Sescon, Jr.</description>
+    </churches>
+    <churches> 
+        <name>Trappist-Monastery</name>
+        <location>Visayas</location>
+        <description>The Our Lady of the Philippines Monastery is a Trappist monastery on Jordan, Guimaras, Guimaras, Philippines and is the only Trappist monastery in the country. It was founded in 1972 and at present[when?], there are 35 monks living in the monastery. They produce a number of products, selling under the brand "Trappist Monastic Products", including pineapple and mango jams, which can be found in local stores and at their shop. The monastery is also available for retreats. It is popular stop for tourists visiting Guimaras.</description>
+    </churches>
+
+    <!-- Falls -->
+    <falls>
+        <name>Asik-Asik Falls</name>
+        <location>Cotabato</location>
+        <description>Asik-Asik Falls is a unique phenomenon. You won’t see a river or a stream above the towering wall. The cold water emanates from the spring covered by rocks and lush vegetation, cascading into a 60-meter high wall carpeted with variety of foliage, mostly ferns and moss. At approximately 140-meter wide, it visually looks like a green curtain of cascading water! The water then drops to a shallow rocky pool below before flowing into a stream tributary of Alamada River.</description>
+    </falls>
+    <falls> 
+        <name>Bomod-ok Falls</name>
+        <location>Sagada, Mountain Province</location>
+        <description>Bomod-ok Falls is also called the Big Falls because, well, it is definitely bigger than Bokong Falls, another popular waterfall in Sagada. Hidden deep in a valley, it takes an hour to two to get here by foot from the main road (and that’s just one-way). Bomod-ok’s cold, cold water cascades from the top of a beautiful naturally contoured cliff to a pool below, forming a 200-ft column of water and wonder.</description>
+    </falls>
+    <falls> 
+        <name>Maria Cristina Falls</name>
+        <location>Mindanao</location>
+        <description>Maria Cristina Falls is a waterfall of the Agus River in the Northern Mindanao region of the Philippines. It is sometimes called the "twin falls" as the flow is separated by a rock at the brink of the waterfall.[1] It is located 9.3 kilometers away southwest of Iligan City at the boundaries of Barangays Maria Cristina, Ditucalan, and Buru-un.Known for its natural grandeur, the 321.5 feet (98.0 meters) high waterfall is also the primary source of electric power for the city's industries, being harnessed by the Agus VI Hydroelectric Plant.</description>
+    </falls>
+    <falls> 
+        <name>Pulang Bato Falls</name>
+        <location>Negros Oriental</location>
+        <description>In the dialect ‘pula’ means red while ‘bato’ means rock, hence the name Pulangbato (Red Rock). True to its name, Pulangbato is indeed a “red princess” as the cool waters flow though the naturally reddish rocks of the Red Rock Valley though the falls and river. The sight of the Pulangbato Falls is surrounded by the red rocks itself and thick green forestry that is just picture perfect. The location of the red beauty is far enough from the main town Valencia making Pulangbato a convenient and calming place to relax.</description>
+    </falls>
+    <falls> 
+        <name>Tinago Falls</name>
+        <location>Lanao Del Norte</location>
+        <description>Tinago Falls is a waterfall on the Agus River, located in between the town of Linamon and Iligan City, Lanao del Norte in the northern part of the Philippine island of Mindanao.[1][2] It is one of the main tourist attractions of Iligan, a city known as the City of Majestic Waterfalls.Tinago is a Filipino term meaning "hidden", the falls being hidden in a deep ravine. Trekking to the falls requires approximately 500 descending steps called the winding staircase.</description>
+    </falls>
+
+    <!-- hotspring -->
+    <hotspring>
+        <name>Puning Hot Spring </name>
+        <location>Pampanga</location>
+        <description>Situated at the foot of Mount Pinatubo in the Zambales mountains, Puning Hot Spring is a sand spa resort with an outdoor sauna where guests can pamper themselves while buried underneath the volcanic ashes. Adding to the heated sand is a mud pack made with Pinatubo lahar to rejuvenate the skin and heal rheumatic pain. Mount Pinatubo is an active stratovolcano that is known for the second-largest terrestrial eruption of the 20th century. Aside from the hot spring, travelers also trek the volcano's crater lake.</description>
+    </hotspring>
+    <hotspring> 
+        <name>Maquinit Hot Spring</name>
+        <location>Coron, Palawan</location>
+        <description>One of the lesser-known saltwater hot springs in the world is the Maquinit Hot Spring. It is situated off the Southern coast of Busuanga Island and less than 5KM away from Coron town proper. Coron is a popular island paradise in Palawan, often compared to another world-famous beach destination, El Nido.</description>
+    </hotspring>
+    <hotspring> 
+        <name>Hidden Valley Springs Resort</name>
+        <location>Laguna</location>
+        <description>Laguna province, which is 30KM away from Manila, is home to resorts with affordable rates. One of the hot spring resorts in Laguna is the Hidden Valley Springs Resort.Being one of the famous nature resorts, Hidden Valley Springs Resort is tucked between two famous mountains in Laguna, Mount Makiling, and Mount Banahaw. It boasts abundant flora and fauna with over 150 plant species, a large collection of wild orchids, giant ferns, and 300-year old trees like the Amlang Tree. You can also trek to reach the nearby waterfall.</description>
+    </hotspring>
+    <hotspring> 
+        <name>Panicuason Hot Springs Resort</name>
+        <location>Naga</location>
+        <description>Less than 5KM away from Mount Isarog and Malabsay Falls lies a laid-back resort in a secluded forest in Naga, the Pilgrim City in Camarines Sur, Bicol Region. Get a glimpse of Panicuason Hot Springs Resort’s history while enjoying its recreational facilities, including a heart-shaped infinity pool overlooking the panoramic view of Naga City.</description>
+    </hotspring>
+    <hotspring> 
+        <name>Red Rock Hot Spring</name>
+        <location>Valencia, Negros Oriental</location>
+        <description>Amidst the mountainous region of Valencia in Negros Oriental, the Red Rock Hot Spring is a private and hidden sanctuary with naturally heated pools, an ultimate place to relax and soothe all those aching muscles. Tourists who have trekked to the cold cascading waters of Pulangbato Falls (850m away) can make a stop at the hot spring to take a warm dip.</description>
+    </hotspring>
+
+    <!-- Mountains -->
+    <mountains>
+        <name>Mount Guiting-Guiting</name>
+        <location>Romblon</location>
+        <description>Mount Guiting-Guiting is the highest mountain in the province of Romblon, located in Sibuyan Island, in the Philippines, with an elevation of 6,752 ft (2,058 m) above sea level. Its steep slopes and jagged peak, have earned it a reputation as one of the most difficult and technically most challenging mountains to climb in the Philippines. It is ranked as the 11th-most prominent mountain in the Philippines, and 71st-highest peak of an island in the world. Located at the heart of Sibuyan, it dominates the landscape for miles around. Guiting-Guiting, in the Romblomanon dialect means "jagged".</description>
+    </mountains>
+    <mountains> 
+        <name>Mount Kalatungan</name>
+        <location>Bukidnon Mindanao</location>
+        <description>Mount Kalatungan, also known as Catatungan,[1] is a volcanic mountain located in the province of Bukidnon in the southern Philippines. It is a stratovolcano with no known historical eruptions and classified by the Philippine Institute of Volcanology and Seismology (PHIVOLCS) as a potentially active volcano.It is the fifth highest mountain in the country with an elevation of 2,860 m (9,380 ft) asl. It is one of the several high elevation peaks in the Kalatungan Mountain Range in Bukidnon on the island of Mindanao, the second largest island in the Philippines.</description>
+    </mountains>
+    <mountains> 
+        <name>Mount Makiling</name>
+        <location>Batangas Laguna</location>
+        <description>TMount Makiling (also known as Mount Maquiling) is an active stratovolcano located in the provinces of Laguna and Batangas on the island of Luzon, Philippines. The mountain rises to an elevation of 1,090 m (3,580 ft) above mean sea level and is the highest feature of the Laguna Volcanic Field. The volcano has no recorded historic eruption but volcanism is still evident through geothermal features like mud spring and hot springs. South of the mountain is the Makiling-Banahaw Geothermal Plant. The Philippine Institute of Volcanology and Seismology (PHIVOLCS) classifies the volcano as "Inactive".</description>
+    </mountains>
+    <mountains> 
+        <name>Mount Pinatubo</name>
+        <location> Zambales</location>
+        <description>Mount Pinatubo[4] is an active stratovolcano in the Zambales Mountains, located on the tripoint boundary of the Philippine provinces of Zambales, Tarlac and Pampanga, all in Central Luzon on the northern island of Luzon.[5][6] Its eruptive history was unknown to most before the pre-eruption volcanic activity of early 1991. Pinatubo was heavily eroded and obscured from view by dense forests which supported a population of several thousand indigenous Aetas.</description>
+    </mountains>
+    <mountains> 
+        <name>Mount Timbak</name>
+        <location>Buenget</location>
+        <description>Mt. Timbak in Benguet is the 3rd highest peak in Luzon and the 9th highest in the Philippines. Its major jumpoff point is at KM 55, Atok, Benguet, and is easily accessible from the Philippines' Summer Capital of Baguio City. Mt. Timbak is also known by its other name of Mt. Singakalsa and is usually done as part of the "Luzon 3-2-1," trail wherein hikers take on Luzon's top three highest peaks (Pulag, Tabayoc, Timbak) in one hike.</description>
+    </mountains>
+
+    <!-- Reef -->
+    <reef>
+        <name>Coral Garden</name>
+        <location>Bohol</location>
+        <description>Coral Garden in Bohol is a stretch of land on a formerly barren coastal area that is covered in sea purslane, a succlent-like plant of the Aizoaceae family. The ground creeping plant is turns a verdant green when it is rainy and transforms into many hues of red-orange on sunny days.</description>
+    </reef>
+    <reef> 
+        <name>Carbin Reef</name>
+        <location>Negros Occidental</location>
+        <description>TOne of the fast rising attractions of Negros Occidental is Carbin Reef, a 200-hectare marine sanctuary located inside the 32,000 hectares Sagay’s Marine Reserve which is dubbed as one of the most successful marine conservation programs in the Philippines. Its visibly iconic feature is the cream-colored sandbar surrounded with turquoise water that resembles the naked Guyam Island of Siargao and White Island of Camiguin.</description>
+    </reef>
+    <reef> 
+        <name>Skeleton Reef</name>
+        <location>Coron, Palawan</location>
+        <description>Skeleton Wreck is a popular Snorkelling spot in Coron Bay. It is also possible to scuba dive this small 25m long Shipwreck. The top of the Skeleton is 5m deep and going down to 22m at the stern. This is an easy dive ideal for beginners.</description>
+    </reef>
+    <reef> 
+        <name>Small Lagoon Reef</name>
+        <location>Palawan</location>
+        <description>A lagoon is a shallow body of water protected from a larger body of water (usually the ocean) by sandbars, barrier islands, or coral reefs. Lagoons are often called estuaries, sounds, bays, or even lakes.</description>
+    </reef>
+    <reef> 
+        <name>Tubbataha Reefs Natural Park</name>
+        <location>Palawan</location>
+        <description>The Tubbataha Reef Marine Park covers 96,828 ha, including the North and South Atolls and the Jessie Beazley Reef. It is a unique example of an atoll reef with a very high density of marine species; the North Islet serving as a nesting site for birds and marine turtles. The site is an excellent example of a pristine coral reef with a spectacular 100-m perpendicular wall, extensive lagoons and two coral islands.</description>
+    </reef>
+
+    <!-- Markets -->
+     <markets>
+        <name>Baclaran Market </name>
+        <location>Manila</location>
+        <description>Flea markets have truly become ingrained in almost every culture today. They’re popular in a lot of countries including the Philippines. Flea markets aren’t just for getting rid of old items. It also provides a platform for independent vendors and entrepreneurs. Some people sell retail and wholesale merchandise here. Such as clothing, furniture, artwork, cosmetics, and novelty items. There are a lot of famous flea markets in the Philippines. Namely, Taytay Tiangge, Divisoria, and the Baclaran Market</description>
+    </markets>
+    <markets> 
+        <name>Dangwa Flower Market</name>
+        <location>Manila</location>
+        <description>Dangwa Flower Market, also known as the Bulaklakan ng Maynila (Flower Market of Manila), is a fresh flower market in the Sampaloc area of Manila, in the Philippines. The market is composed of several small individually-owned stalls and street vendors selling flowers wholesale and retail 50 to 90 percent cheaper than Metro Manila's flower shops. In 2004, it was home to 50 flower vendors. Most vendors, but not all, are members of the Dangwa Flower Market Association.</description>
+    </markets>
+    <markets> 
+        <name>Divisoria Market</name>
+        <location>Manila</location>
+        <description>Considered the “Mother of all Markets” in Manila, Divisoria is a popular flea market in Chinatown. There are stalls selling clothes, bags, garments, footwear, textiles, accessories, food items, electronic equipment, crafts, home decor items, kitchenware, and the like. The market is also popular for its delicious street food</description>
+    </markets>
+    <markets> 
+        <name>Greenhills Shopping Center</name>
+        <location>San Juan, Metro Manila</location>
+        <description>Greenhills, formerly and still commonly known as the Greenhills Shopping Center, is a 16-hectare (0.16 km2) mixed-use shopping, residential, and leisure development located in Greenhills, San Juan, Metro Manila, the Philippines.Established by Ortigas and Company as the centerpiece shopping center of the Greenhills development in the 1970s, it is a mall complex containing more than 2,000 stores and is one of the oldest shopping malls in the country.</description>
+    </markets>
+    <markets> 
+        <name>Quiapo Market</name>
+        <location>Quiapo Manila</location>
+        <description>The Quiapo Market is the largest market throughout the Philippines and is close to the Quiapo Church. The vox populi also says it is one of the par excellence forgery markets in the world. Besides of clothes and objects of dubious brands, it's a colorful market where you can find everything. From fruits and vegetables to household utensils or objects dedicated to Chinese culture. If you want to eat some fruit or drink some juice, be careful. You know water in foreign countries are sometimes not recommended for drinking.</description>
+    </markets>
+
+
+</ExplorePhilippines>
